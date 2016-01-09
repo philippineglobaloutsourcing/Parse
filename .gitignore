@@ -2,6 +2,7 @@
 /node_modules
 /config
 /app/Views
+/app/Http/Controllers
 /app/Http/routes.php
 Homestead.yaml
 Homestead.json
