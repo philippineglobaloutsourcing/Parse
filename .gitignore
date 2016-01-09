@@ -1,0 +1,8 @@
+/vendor
+/node_modules
+/config
+/app/Views
+/app/Http/routes.php
+Homestead.yaml
+Homestead.json
+.env
